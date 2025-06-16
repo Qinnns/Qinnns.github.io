@@ -17,42 +17,49 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+My name is Haoqin Sun, and I am currently a 2<sup>nd</sup>-year Ph.D. student at the College of Computer Science, Nankai University, working under the supervision of Professor Yong Qin. My research interests include:
+- Speech Emotion Recognition 
+- Multimodal
+- Audio Understanding
 
 # 📝 Publications 
+<!-- for example -->
+<!-- - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2024</span><span style="color:red">(Oral)</span> [GenTranslate: Large Language Models are Generative Multilingual Speech and Machine Translators](https://aclanthology.org/2024.acl-long.5.pdf), **<u>Yuchen Hu</u>**, Chen Chen, Chao-Han Huck Yang, Ruizhe Li, Dong Zhang, Zhehuai Chen, Eng Siong Chng. [[Code]](https://github.com/YUCHEN005/GenTranslate) [[Data]](https://huggingface.co/datasets/PeacefulData/HypoTranslate) -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">INTERSPEECH 2025</span> [A-CLAP: Relation-Augmented Emotional Speaking Style Contrastive Language-Audio Pretraining For Speech Retrieval](https://arxiv.org/pdf/2505.19437), **Haoqin Sun**, Jingguang Tian, Jiaming Zhou, Hui Wang, Jiabei He, Shiwan Zhao, Xiangyu Kong, Desheng Hu, Xinkang Xu, Xinhui Hu, Yong Qin.
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2025</span> [Enhancing Emotion Recognition in Incomplete Data: A Novel Cross-Modal Alignment, Reconstruction, and Refinement Framework](https://ieeexplore.ieee.org/abstract/document/10889485), **Haoqin Sun**, Shiwan Zhao, Shaokai Li, Xiangyu Kong, Xuechen Wang, Aobo Kong, Jiaming Zhou, Yong Chen, Wenjia Zeng, Yong Qin.
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2024</span> [Iterative Prototype Refinement for Ambiguous Speech Emotion Recognition](https://www.isca-archive.org/interspeech_2024/sun24e_interspeech.pdf), **Haoqin Sun**, Shiwan Zhao, Xiangyu Kong, Xuechen Wang, Hui Wang, Jiaming Zhou, Yong Qin
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2024</span> [Fine-grained disentangled representation learning for multimodal emotion recognition](https://ieeexplore.ieee.org/abstract/document/10447667), **Haoqin Sun**, Shiwan Zhao, Xuechen Wang, Wenjia Zeng, Yong Chen, Yong Qin.
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Arxiv</span> [EmotionTalk: An Interactive Chinese Multimodal Emotion Dataset With Rich Annotations](https://arxiv.org/pdf/2505.23018), **Haoqin Sun**, Xuechen Wang, Jinghua Zhao, Shiwan Zhao, Jiaming Zhou, Hui Wang, Jiabei He, Aobo Kong, Xi Yang, Yequan Wang, Yonghua Lin, Yong Qin.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+*September 2023 - June 2027 (expected)*, Nankai University
+- Ph.D. in Computer Science. Supervisor: Prof. Yong Qin
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+*September 2020 - June 2023*, Qingdao University of Science and Technology
+- M.S. in Software Engineering. Supervisor: Prof. Yang Liu
+
+*September 2016 - June 2020*, Qingdao University
+- B.S. in Digital Media Technology.
+
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- Research Intern, [Alibaba](https://www.alibaba.com), China (*April 2025 - now*)
+- Research Intern, [Hithink Royalflush](https://www.tonghuashuncn.com/), China (*July 2024 - March 2025*)
+
+# 🧑‍🔬 Services
+**Reviewer:** &nbsp; 
+- ICASSP (24/25), INTERSPEECH(23/24/25)
+
+# 🎖 Honors and Awards
+- China National Scholarship, Ministry of Education of China, *2023*
+- Outstanding Graduate Award of Qingdao, *2023*
+
+
+Thanks for the template of <a href="https://rayeren.github.io">Yi Ren</a>
+
+<div style="text-align: center;">
+    <a href="https://clustrmaps.com/site/1c273" title="Visit tracker">
+        <img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=500&t=n&d=HWn8wyg-BkwbHphj4DVuPP5OvCM5fzVngWq98DVkcEo" style="max-width: 50%;" />
+    </a>
+</div>
