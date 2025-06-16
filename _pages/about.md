@@ -50,7 +50,7 @@ My name is Haoqin Sun, and I am currently a 2<sup>nd</sup>-year Ph.D. student at
 
 
 # 💻 Internships
-- Research Intern, [Alibaba](https://www.alibaba.com), China (*April 2025 - now*)
+- Research Intern, [Alibaba](https://www.alibaba.com), China (*May 2025 - now*)
 - Research Intern, [Hithink Royalflush](https://www.tonghuashuncn.com/), China (*July 2024 - March 2025*)
 
 # 🧑‍🔬 Services
