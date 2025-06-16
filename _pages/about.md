@@ -59,7 +59,9 @@ My name is Haoqin Sun, and I am currently a 2<sup>nd</sup>-year Ph.D. student at
 Thanks for the template of <a href="https://rayeren.github.io">Yi Ren</a>
 
 <div style="text-align: center;">
-    <a href="https://clustrmaps.com/site/1c273" title="Visit tracker">
-        <img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=500&t=n&d=HWn8wyg-BkwbHphj4DVuPP5OvCM5fzVngWq98DVkcEo" style="max-width: 50%;" />
-    </a>
+  <a href="https://clustrmaps.com/site/1c6nd"  title="ClustrMaps">
+    <img src="//www.clustrmaps.com/map_v2.png?d=Xve7iejtylax2VPji9M9Du9PA678ZnhUT8wsFDx84k0&cl=ffffff" style="max-width: 50%;" />
+  </a>
 </div>
+
+
