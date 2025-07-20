@@ -55,6 +55,7 @@ My name is Haoqin Sun, and I am currently a 2<sup>nd</sup>-year Ph.D. student at
 
 # 🧑‍🔬 Services
 **Reviewer:** &nbsp; 
+- Speech Communication, Expert Systems With Applications
 - ICASSP (24/25), INTERSPEECH(23/24/25)
 
 # 🎖 Honors and Awards
