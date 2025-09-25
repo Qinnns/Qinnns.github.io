@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Haoqin Sun, and I am currently a 3<sup>nd</sup>-year Ph.D. student at the College of Computer Science, Nankai University, working under the supervision of Professor Yong Qin. My research interests include:
+My name is Haoqin Sun, and I am currently a third-year Ph.D. student at the College of Computer Science, Nankai University, working under the supervision of Professor Yong Qin. My research interests include:
 - Speech Emotion Recognition 
 - Multimodal
 - Audio Understanding
