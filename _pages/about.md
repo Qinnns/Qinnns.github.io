@@ -18,9 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 My name is Haoqin Sun, and I am currently a third-year Ph.D. student at the College of Computer Science, Nankai University, working under the supervision of Professor Yong Qin. My research interests include:
-- Speech Emotion Recognition 
-- Multimodal
+- Multimodal Affective Computing
 - Audio Understanding
+- Large Audio Language Models
 
 # 📝 Publications 
 <!-- for example -->
