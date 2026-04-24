@@ -53,13 +53,14 @@ My name is Haoqin Sun, and I am currently a third-year Ph.D. student at the Coll
 
 
 # 💻 Internships
-- Research Intern, [Alibaba](https://www.alibaba.com), China (*May 2025 - now*)
-- Research Intern, [Hithink Royalflush](https://www.tonghuashuncn.com/), China (*July 2024 - March 2025*)
+- Research Intern, Alibaba Cloud, China (*February 2026 - now*)
+- Research Intern, Alibaba International Digital Commerce Group, China (*May 2025 - January 2026*)
+- Research Intern, Hithink Royalflush, China (*July 2024 - March 2025*)
 
 # 🧑‍🔬 Services
 **Reviewer:** &nbsp; 
 - IEEE Transactions on Audio, Speech and Language Processing, IEEE Transactions on Affective Computing, Speech Communication, Expert Systems With Applications
-- ICASSP (24/25/26), INTERSPEECH(23/24/25)
+- ACM MM(26), NIPS(26), ICASSP (24/25/26), INTERSPEECH(23/24/25/26)
 
 # 🎖 Honors and Awards
 - China National Scholarship, Ministry of Education of China, *2023*
