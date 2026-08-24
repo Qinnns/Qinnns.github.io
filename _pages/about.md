@@ -26,7 +26,7 @@ My name is Haoqin Sun, and I am currently a third-year Ph.D. student at the Coll
 <!-- for example -->
 <!-- - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2024</span><span style="color:red">(Oral)</span> [GenTranslate: Large Language Models are Generative Multilingual Speech and Machine Translators](https://aclanthology.org/2024.acl-long.5.pdf), **<u>Yuchen Hu</u>**, Chen Chen, Chao-Han Huck Yang, Ruizhe Li, Dong Zhang, Zhehuai Chen, Eng Siong Chng. [[Code]](https://github.com/YUCHEN005/GenTranslate) [[Data]](https://huggingface.co/datasets/PeacefulData/HypoTranslate) -->
 
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Arxiv</span> [Speech-XL: Towards Long-Form Speech Understanding in Large Speech Language Models](https://arxiv.org/pdf/2602.05373), **Haoqin Sun**, Chenyang Lyu, Shiwan Zhao, Xuanfan Ni, Xiangyu Kong, Longyue Wang, Weihua Luo, Yong Qin.
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">EMNLP 2026 Findings</span> [Speech-XL: Towards Long-Form Speech Understanding in Large Speech Language Models](https://arxiv.org/pdf/2602.05373), **Haoqin Sun**, Chenyang Lyu, Shiwan Zhao, Xuanfan Ni, Xiangyu Kong, Longyue Wang, Weihua Luo, Yong Qin.
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2026 Findings</span> [EmotionTalk: An Interactive Chinese Multimodal Emotion Dataset With Rich Annotations](https://arxiv.org/pdf/2505.23018), **Haoqin Sun**, Xuechen Wang, Jinghua Zhao, Shiwan Zhao, Jiaming Zhou, Hui Wang, Jiabei He, Aobo Kong, Xi Yang, Yequan Wang, Yonghua Lin, Yong Qin.
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2026</span> [MECap-R1: Emotion-aware Policy with Reinforcement Learning for Multimodal Emotion Captioning](https://arxiv.org/pdf/2505.23018), **Haoqin Sun**, Chenyang Lyu, Xiangyu Kong, Shiwan Zhao, Jiaming Zhou, Hui Wang, Aobo Kong, Jinghua Zhao, Longyue Wang, Weihua Luo, Kaifu Zhang, Yong Qin.
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">TASLP</span> [Progressive Learning Framework With Missing Modality Reconstruction for Multimodal Emotion Recognition](https://arxiv.org/pdf/2505.23018), **Haoqin Sun**, Xugang Lu, Jingguang Tian, Jiaming Zhou, Jiabei He, Hui Wang, Xiangyu Kong, Xinhui Hu, Yong Qin.
@@ -53,8 +53,8 @@ My name is Haoqin Sun, and I am currently a third-year Ph.D. student at the Coll
 
 
 # 💻 Internships
-- Research Intern, Alibaba Cloud, China (*February 2026 - now*)
-- Research Intern, Alibaba International Digital Commerce Group, China (*May 2025 - January 2026*)
+- Research Intern, Alibaba Cloud, China (*March 2026 - now*)
+- Research Intern, Alibaba International Digital Commerce Group, China (*July 2025 - January 2026*)
 - Research Intern, Hithink Royalflush, China (*July 2024 - March 2025*)
 
 # 🧑‍🔬 Services
