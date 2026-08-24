@@ -59,8 +59,8 @@ My name is Haoqin Sun, and I am currently a third-year Ph.D. student at the Coll
 
 # 🧑‍🔬 Services
 **Reviewer:** &nbsp; 
-- IEEE Transactions on Audio, Speech and Language Processing, IEEE Transactions on Affective Computing, Speech Communication, Expert Systems With Applications
-- ACM MM(26), NIPS(26), ICASSP (24/25/26), INTERSPEECH(23/24/25/26)
+- IEEE Transactions on Audio, Speech and Language Processing, IEEE Transactions on Image Processing, IEEE Transactions on Affective Computing, Speech Communication, Expert Systems With Applications
+- AAAI(27), ACM MM(26), NIPS(26), ICASSP (24/25/26), INTERSPEECH(23/24/25/26)
 
 # 🎖 Honors and Awards
 - China National Scholarship, Ministry of Education of China, *2023*
